@@ -1,0 +1,5 @@
+pyyaml
+loguru
+boto3
+flask
+requests
